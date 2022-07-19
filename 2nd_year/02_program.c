@@ -1,3 +1,4 @@
+// Storing data as the last number of element.
 #include <stdio.h>
 int main()
 {
