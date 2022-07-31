@@ -13,7 +13,7 @@ int main()
         printf("\nEnter the data: ");
         scanf("%d", &data);
         r1 = data % 10;
-        r2 = data % 10;
+        r2 = data / 10;
         r = r1 + r2;
         if (a[r] == -1)
         {

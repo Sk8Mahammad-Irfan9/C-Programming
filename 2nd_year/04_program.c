@@ -21,11 +21,9 @@ int main()
             a[r] = data;
         }
     }
-
     for (i = 0; i < num; i++)
     {
         printf("\n%d", a[i]);
     }
-
     return 0;
 }
