@@ -1,4 +1,4 @@
-// Storing data as the last number of element.
+// Storing data as the last number of element remainder hashing.
 #include <stdio.h>
 int main()
 {

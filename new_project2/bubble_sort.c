@@ -32,7 +32,7 @@ int main(){
 
     }
 
-    // printf("Array after implementing bubble sort: ");
+    printf("Array after implementing bubble sort: ");
 
     for(x = 0; x < num; x++){
 
